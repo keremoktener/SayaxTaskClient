@@ -24,3 +24,7 @@ Not: .env dosyasında bulunan VITE_API_BASE değişkeni ile backend portu deği�
 - Formül Özeti: Tablo altında S1, S2 ve S3 sayaç tiplerinin hesaplama adımlarını açıklar.
 - Belediyelere ödenen BTV tutarlarını gösterir.
 - Hata / Yükleniyor Ekranı: API erişiminde durum bilgisi verir.
+
+## Endpoint'ler
+- http://localhost:5173/invoices
+- http://localhost:5173/municipalities
